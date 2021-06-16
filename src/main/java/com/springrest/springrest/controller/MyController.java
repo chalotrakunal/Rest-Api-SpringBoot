@@ -47,7 +47,7 @@ public class MyController
 		return objectOfCourseServiceImplementation().AddCourses(course);
 	}
 	
-	//Update the courses based
+	//Update the courses
 	@PutMapping("/courses")
 	public Courses UpdateCourses(@RequestBody Courses course)
 	{
