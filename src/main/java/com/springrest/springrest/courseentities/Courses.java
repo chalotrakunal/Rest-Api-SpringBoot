@@ -4,12 +4,7 @@ public class Courses
 {
 	private long id;
 	private String title;
-	/*
-	public Courses() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
-	*/
+	
 	private String Description;
 	public Courses(long id, String title, String description) {
 		//super();
