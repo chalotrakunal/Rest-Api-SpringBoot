@@ -4,10 +4,9 @@ public class Courses
 {
 	private long id;
 	private String title;
-	
 	private String Description;
+	
 	public Courses(long id, String title, String description) {
-		//super();
 		this.id = id;
 		this.title = title;
 		this.Description = description;
