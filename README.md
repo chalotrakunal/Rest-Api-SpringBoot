@@ -2,7 +2,7 @@
 
 SIMPLE Course Application using STS(Spring Tool Suite) tool.
 
-Created a simple course application with basic CRUD operations and testing it with POSTMAN tool.
+Created a simple course application with basic CRUD operations and check response/request using POSTMAN.
 
 Presentation Layer: Contains the controller class which is used to take the first ever request from client(web browser, mobile).
 
